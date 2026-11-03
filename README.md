@@ -61,23 +61,6 @@ Sou estudante de **Ciência de Dados para Negócios** e meu objetivo profissiona
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<div align="center"><img src="assets/analytics.svg" width="100%" alt="GitHub analytics"/></div>
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LuanaBarrios&show_icons=true&hide_border=false&bg_color=0d0221&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&border_color=7c3aed&border_radius=12" alt="Estatísticas"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaBarrios&layout=compact&bg_color=0d0221&title_color=c084fc&text_color=e9d5ff&border_color=7c3aed&border_radius=12" alt="Linguagens mais usadas"/>
-
-<img src="https://streak-stats.demolab.com?user=LuanaBarrios&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=c084fc&currStreakNum=ffffff&sideNums=ffffff&dates=a78bfa&stroke=7c3aed&border=7c3aed&hide_border=false" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanaBarrios&bg_color=0d0221&color=e9d5ff&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&title_color=c084fc" width="100%" alt="Gráfico de atividade"/>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
 <div align="center"><img src="assets/formacao.svg" width="100%" alt="Formação e certificações"/></div>
 
 <br/>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="852" height="316" viewBox="0 0 852 316">
+<defs><linearGradient id="t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+<text x="0" y="22" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#c084fc">BASE</text><g transform="translate(0,34)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5" />
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">PY</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Python</text>
+</g><g transform="translate(124,34)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5" />
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">DB</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">SQL</text>
+</g><g transform="translate(248,34)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5" />
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">GIT</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Git</text>
+</g><g transform="translate(372,34)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5" />
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">GH</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">GitHub</text>
+</g><g transform="translate(496,34)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5" />
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">BI</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Power BI</text>
+</g><g transform="translate(620,34)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5" />
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">LS</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Looker Studio</text>
+</g><g transform="translate(744,34)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5" />
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">LGPD</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">LGPD</text>
+</g><text x="0" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#c084fc">EM APRENDIZADO · GOOGLE CYBERSECURITY</text><g transform="translate(0,190)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">LNX</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Linux</text>
+</g><g transform="translate(124,190)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">LOG</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Logs</text>
+</g><g transform="translate(248,190)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">SIEM</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">SIEM</text>
+</g><g transform="translate(372,190)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">NET</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Redes</text>
+</g><g transform="translate(496,190)">
+<rect width="108" height="108" rx="16" fill="#12042a" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="34" y="16" width="40" height="40" rx="10" fill="url(#t)"/>
+<text x="54" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#fff">SEC</text>
+<text x="54" y="86" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#e9d5ff">Cyber Sec</text>
+</g>
+</svg>
